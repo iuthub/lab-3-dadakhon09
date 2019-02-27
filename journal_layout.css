@@ -1,0 +1,40 @@
+html{
+	background-color: lightblue; 
+}
+body{
+	border: 5px green solid;
+	background-color: white;
+	margin-left: 10%;
+	margin-right:10%;
+}
+div{
+	font-family: Times New Roman;
+}
+#fHeader{
+	border: 5px orange solid;
+}
+img{
+	padding:5px;
+	float:right;
+}
+.p_1{
+	border: 5px red solid;
+	text-align: right;
+	clear:left;
+}
+.p_2{
+	border: 5px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow:auto;
+}
+.p_3{
+	border: 5px blue solid;
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	overflow:auto;
+}
+span{
+	border: 5px violet solid;
+}
